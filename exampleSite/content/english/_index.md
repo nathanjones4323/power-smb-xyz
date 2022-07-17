@@ -1,9 +1,9 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "Let us solve your critical website <br> development challenges"
+  title : "Power SMB -- Empowering Businesses to Leverage Data Analytics"
   image : "images/banner-art.svg"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus"
+  content : "Enabling businesses to make **data driven** decisions to compete with larger organizations, and scale faster"
   button:
     enable : true
     label : "Contact Us"
@@ -12,12 +12,12 @@ banner:
 ##################### Feature ##########################
 feature:
   enable : true
-  title : "Something You Need To Know"
+  title : "At a Glance"
   feature_item:
     # feature item loop
-    - name : "Clean Code"
+    - name : "Modern Data Tools"
       icon : "fas fa-code"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "We use proven software tools used by many enterprises"
       
     # feature item loop
     - name : "Object Oriented"
@@ -25,24 +25,24 @@ feature:
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
     # feature item loop
-    - name : "24h Service"
+    - name : "Personalized Service"
       icon : "fas fa-user-clock"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "A small team providing a solution that works for you"
       
     # feature item loop
     - name : "Value For Money"
-      icon : "fas fa-heart"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      icon : "fas fa-dollar-sign"
+      content : "Optimize your operations to save money, and drive growth"
       
     # feature item loop
     - name : "Faster Response"
       icon : "fas fa-tachometer-alt"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "We respond quickly to customers and value your time"
       
     # feature item loop
     - name : "Cloud Support"
       icon : "fas fa-cloud"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "If you have an issue or question, feel free to reach out online or by phone"
       
 
 
